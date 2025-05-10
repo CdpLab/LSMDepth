@@ -1,12 +1,7 @@
-opencv-python
 matplotlib
-scipy
-scikit-image
-argparse
-tensorboardX
-blessings
-progressbar2
 path
 tqdm
 pypng
 open3d
+timm
+OpenCV
