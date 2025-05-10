@@ -1,5 +1,4 @@
 opencv-python
-imageio
 matplotlib
 scipy
 scikit-image
