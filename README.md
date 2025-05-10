@@ -35,7 +35,7 @@
 ## Data Preparation
 Please refer to [Monodepth2](https://github.com/nianticlabs/monodepth2) to prepare your KITTI data.
 
-## Single Image Test
+## Test
     python test_simple.py --load_weights_folder path/to/your/weights/folder --image_path path/to/your/test/image
 
 ## Training
