@@ -7,7 +7,8 @@
   
 </div>
 
-
+## abstract
+Aiming at the problems of high computational complexity and large number of parameters of the current monocular depth estimation model, we construct a lightweight self-supervised monocular depth estimation network model by combining an improved convolutional neural network with a hybrid attention mechanism. We incorporate the linear attention mechanism into the network encoder and combine the dilated convolution and deformable convolution modules to enhance the network's ability to extract multi-scale features while effectively reducing computational and memory consumption. In the jump connection part of the decoder and encoder, we incorporate the dual-channel attention mechanism, which effectively improves the fusion of low and high level features and enhances the robustness and accuracy of depth estimation. The experimental results show that the proposed method has an AbsRel of 0.102 on the KITTI dataset, the number of model parameters is only 3.0 M, and the inference speed reaches 2.8 ms. Our method significantly reduces the computational complexity while guaranteeing the high accuracy, and it has a strong real-time and practicality, which makes it suitable to be applied to the edge devices and real-time depth estimation tasks.
 ## Overview
 <img src="./img/Figure_1.jpg" width="100%" alt="overview" align=center />
 
