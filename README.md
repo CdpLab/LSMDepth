@@ -45,6 +45,7 @@ Create a conda environment with the PyTorch library:
 ```bash
 conda create -n LSMDepth python=3.9.4
 conda install pytorch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1  pytorch-cuda=11.8 -c pytorch -c nvidia
+conda activate LSMDepth
 ```
 
 Install prerequisite packages listed in requirements.txt:
