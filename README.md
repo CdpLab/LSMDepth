@@ -15,7 +15,7 @@ Aiming at the problems of high computational complexity and large number of para
 ## KITTI Results
 <img src="./img/Figure_2.jpg" width="100%" alt="overview" align=center />
 
-## Comparison of KITTI dataset results
+## Comparison of KITTI dataset visualizations
 | Model                                | Parameters (M) | AbsRel | SqRel | RMSE  | RMSElog | δ1   | δ2   | δ3   |
 |--------------------------------------|----------------|--------|-------|-------|---------|-------|-------|-------|
 | Zhou                                 | 34.2           | 0.208  | 1.768 | 6.958 | 0.283   | 0.678 | 0.885 | 0.957 |
