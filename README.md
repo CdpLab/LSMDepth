@@ -33,10 +33,10 @@
 
 
 
-## Data Preparation
+## 数据准备
 请参考 [Monodepth2](https://github.com/nianticlabs/monodepth2) 准备您的KITTI数据.
 
-## Install
+## 安装
 
 模型是用 CUDA 11.8, Python 3.9.x (conda environment), 和 PyTorch 2.4.1 训练的.
 
